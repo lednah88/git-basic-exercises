@@ -1,0 +1,295 @@
+    1  touch umuzi.md recruits.md cohort.md
+    2  ls
+    3  touch umuzi.md recruits.md cohord.md
+    4  ls
+    5  rm task2.sh umuzi.md recruits.md cohort.md
+    6  ls
+    7  rm cohord.md
+    8  ls
+    9  ls
+   10  pwd
+   11  mkdir workspace
+   12  cd workspace
+   13  ls
+   14  touch README.md
+   15  cp README.md CHANGELOG.md
+   16  ls
+   17  touch exercise.md
+   18  mv exercise.md /tmp
+   19  rm /tmp/exercise.md
+   20  /Documents/pad.md
+   21  cd ..
+   22  ls
+   23  cd Documents
+   24  touch pad.md
+   25  cd
+   26  cd Desktop
+   27  nano task5_2
+   28  nano task5_2.sh
+   29  cp pad.md pad_copy.md
+   30  cp /Documents/pad.md pad_copy.md
+   31  nano task5_3
+   32  mv task5_3 task5_3.sh
+   33  ls
+   34  chmod 0700 task5_3.sh 
+   35  ./task5_3.sh 
+   36  nano task5_4.sh
+   37  chmod 0700 task5_4.sh
+   38  ./task5_4.sh
+   39  nano task5_5.sh
+   40  chmod 0700 task5_5.sh
+   41  ./task5_5.sh
+   42  cd
+   43  cd Documents
+   44  locate pad_copy.md
+   45  locate umuzi
+   46  locate umuzi.md
+   47  ls
+   48  locate umuzi
+   49  locate /umuzi.md
+   50  sudo updatedb
+   51  locate umuzi
+   52  locate umuzi >> search_result.md
+   53  cat search_result.md 
+   54  nano task4_2.sh
+   55  ./task4_2.sh
+   56  chmod task4_2.sh
+   57  chmod 0700 search_result.md 
+   58  ./task4_2.sh
+   59  nano task4_2.sh 
+   60  cat task4_2.sh 
+   61  touch umuzi.md recruits.md cohort.md
+   62  nano umuzi.md
+   63  nano recruits.md
+   64  nano cohort.md
+   65  cat umuzi.md cphort.md recruits.md
+   66  cat umuzi.md cohort.md recruits.md
+   67  cat umuzi.md cohort.md recruits.md > summary.md
+   68  echo "THE END" > summarry.md
+   69  cat summary.md
+   70  echo "THE END" > summary.md
+   71  cat summary.md
+   72  cat umuzi.md cohort.md recruits.md > summary.md
+   73  cat summary.md
+   74  echo "THE END" >> summary.md
+   75  cat summary.md
+   76  ls
+   77  pwd
+   78  mkdir workspace
+   79  clear .
+   80  ls
+   81  rm workspace
+   82  ls
+   83  pwd
+   84  mkdir workspace
+   85  cd workspace
+   86  ls
+   87  touch README.md
+   88  cp README.md CHANGELOG.md
+   89  ls
+   90  touch exercise.md
+   91  mv exercise.md /tmp
+   92  rm /tmp/exercise.md
+   93  ls
+   94  touch umuzi.md recruits.md cohort.md
+   95  nano umuzi.md 
+   96  nano recruits.md 
+   97  nano cohort.md 
+   98  nano task1_3.sh
+   99  chmod 0070 task1_3.sh 
+  100  ./task1_3.sh
+  101  chmod 0700 task1_3.sh 
+  102  ./task1_3.sh
+  103  nano task3_4.sh
+  104  chmod 0700 task3_4
+  105  chmod 0700 task3_4.sh
+  106  ./task3_4.sh
+  107  echo "THE END" >> summary.md
+  108  cat summary.md
+  109  nano task4_1.sh
+  110  chmod 0700 task4_1.sh 
+  111  ./task4_1.sh 
+  112  nano task4_2.sh
+  113  chmod 0700 task4_2.sh 
+  114  ./task4_2.sh 
+  115  cat task4_2.sh 
+  116  nano task6_1.sh
+  117  chmod 0700 task6_1.sh 
+  118  ./task6_1.sh 
+  119  nano task6_2.sh
+  120  nano task6.sh
+  121  chmod 0700 task6.sh 
+  122  ./task6.sh 
+  123  nano task6_1.sh
+  124  chmod 0700 task6_1.sh 
+  125  ./task6_1.sh 
+  126  nano task6_1.sh
+  127  chmod 0700 task6_1.sh 
+  128  ./task6_1.sh 
+  129  nano task6_2.sh
+  130  nano task6_1.sh
+  131  chmod 0700 task6_1.sh 
+  132  ./task6_1.sh 
+  133  nano6_2.sh
+  134  nano task6_2.sh
+  135  chmod 0700 task6_2.sh 
+  136  ./task6_2.sh 
+  137  find . -name "2020-03-19"
+  138  finf . -mtime -1 -print 
+  139  find . -mtime -1 -print 
+  140  find -mtime -1 -print
+  141  nano task5_1.sh
+  142  chmod 0700 task5_1.sh 
+  143  ./task5_1.sh 
+  144  nano task5_2.sh
+  145  chmod 0700 task5_2.sh 
+  146  ./task5_2.sh 
+  147  nano task5_3.sh
+  148  chmod 0700 task5_3.sh 
+  149  ./task5_3.sh 
+  150  nano task5_4.sh
+  151  chmod 0700 task5_4.sh 
+  152  nano task5_4.sh
+  153  ./task5_4.sh 
+  154  nano task5_5.sh
+  155  chmod 0700 task5_5.sh 
+  156  ./task5_5.sh 
+  157  nano task5_5.sh
+  158  chmod 0700 task5_5.sh 
+  159  ./task5_5.sh 
+  160  nano task5_5.sh
+  161  chmod 0700 task5_5.sh 
+  162  nano task5_5.sh
+  163  ./task5_5.sh 
+  164  nano task5_6.sh
+  165  chmod 0700 task5_6.sh 
+  166  ./task5_6.sh 
+  167  nano task6_1.sh
+  168  chmod 0700 task6_1.sh
+  169  ./task6_1.sh
+  170  nano task6_1.sh
+  171  chmod 0700 task6_1.sh
+  172  nano task6_1.sh
+  173  ./task6_1.sh
+  174  nano task6_2.sh
+  175  ./task6_1.sh
+  176  nano task6_1.sh
+  177  ./task6_1.sh
+  178  nano task6_1.sh
+  179  ./task6_1.sh
+  180  sudo updatedb
+  181  ./task6_1.sh
+  182  nano task6_1.sh
+  183  ./task6_1.sh
+  184  nano task6_1.sh
+  185  nano task6_1.sh 
+  186  chmod 0700 task6_1.sh 
+  187  ./task6_1.sh 
+  188  print . -name '*pdf' >> /Documents/task6_2.sh
+  189  find . -name '*pdf' >> Desktop/file.sh
+  190  nano task6_3.sh
+  191  chmod 0700 task6_3.sh 
+  192  ./task6_3.sh 
+  193  nano my_bio.md
+  194  mkdir my_files 
+  195  mv my_bio.md >> my_files
+  196  mv my_bio.md >> /home/recruitt/my_files
+  197  nano my_bio.md
+  198  mkdir my_files
+  199  mv my_bio.md my_files
+  200  sudo apt update
+  201  sudo apt upgrade
+  202  sudo apt install
+  203  sudo apt install tree
+  204  sudo dpkg -1
+  205  ls
+  206  cd Downloads
+  207  ls
+  208  cd
+  209  cd Desktop
+  210  ls
+  211  sudo dpkg -i code.desktop  
+  212  sudo dpkg -i /home/recruit/Desktop/code.desktop
+  213  mkdir git-basic-exercises
+  214  cd git-basic-exercises
+  215  ls -a
+  216  git init
+  217  mkdir git-basic-exercises
+  218  cd git-basic-exercises
+  219  ls -a
+  220  git init
+  221  sudo apt install git
+  222  ls -a
+  223  git init
+  224  ls -a
+  225  git status
+  226  touch README.md
+  227  ls -a
+  228  git status
+  229  git log
+  230  git add .
+  231  git status
+  232  git rm--cached <README.md>...
+  233  git rm --cached <README.md>...
+  234  git status
+  235  git add <README.md>...
+  236  git add .
+  237  git status
+  238  get reset
+  239  git reset
+  240  git status
+  241  git add .
+  242  git status
+  243  q
+  244  sudo snap install q
+  245  git checkout -b milkshake0flavours
+  246  git checkout -b milkshake0flavours.git
+  247  mkdir git-basic-exercises
+  248  cd git-basic-exercises
+  249  ls -a
+  250  git init
+  251  git statu
+  252  touch README.md
+  253  ls -a
+  254  git status
+  255  git log
+  256  git add .
+  257  git status
+  258  rm --cached README.md
+  259  git reset
+  260  git status
+  261  add README.md
+  262  git add README.md 
+  263  git config --global user.email "lednah97@gmail.com"
+  264  git config --global user.name "Rixongile Manyobe"
+  265  git commit -m "initial commit"
+  266  git log
+  267  nano README.md
+  268  cat README.md
+  269  git status
+  270  git add .
+  271  git commit -m "second commit"
+  272  nano README.md
+  273  git add .
+  274  git commit -m "third commit"
+  275  git log
+  276  git checkout
+  277  git checkoutee4132510587621cfd080493be86bf45e9b5bbc7
+  278  git checkout ee4132510587621cfd080493be86bf45e9b5bbc7
+  279  cat README.md
+  280  git checkout master
+  281  cat README.md
+  282  git branch
+  283  git checkout -b milkshake-flavours
+  284  git branch
+  285  git checkout milkshake-flavours 
+  286  git branch
+  287  nano milkshakes.md
+  288  git add .
+  289  git commit -m "added initial flavours"
+  290  git log
+  291  git checkout master
+  292  git branch
+  293  git checkout -b history
+  294  git log
+  295  history > history.txt
